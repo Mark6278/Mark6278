@@ -14,4 +14,7 @@ I apply machine learning, image processing, and spatial multi-omics pipelines to
 ---
 
 ### 🤝 Collaboration
+
 I am actively looking to collaborate with **bioengineering, biotechnology, pharmaceutical, or bioinformatics teams**.
+
+💬 Feel free to reach out via [GitHub Discussions](https://github.com)!
