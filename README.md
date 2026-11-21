@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mark6278
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Mark6278 a Biochemistry graduated
+- 👀 I’m interested in bioinformatics
+- 🌱 I’m currently learning image processing, machine learning, deep learning
+- 💞️ I’m looking to collaborate on biotechnological or bioinformatic team
+- 📫 Contact me on: Mark45659@outlook.com
 
 <!---
 Mark6278/Mark6278 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
