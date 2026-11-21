@@ -2,7 +2,7 @@
 
 **Biochemistry Graduate | Bioinformatics & Computational Biology**
 
-I apply machine learning, image processing, and spatial multi-omics pipelines to uncover biological insights from clinical and single-cell data.
+With a strong foundation in **molecular biology and microbiology**, I apply machine learning, image processing, and spatial multi-omics pipelines to uncover biological insights from clinical, microbial, and single-cell data.
 
 ---
 
