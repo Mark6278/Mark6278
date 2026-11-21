@@ -2,7 +2,7 @@
 
 **Biochemistry Graduate | Bioinformatics & Computational Biology**
 
-With a strong foundation in **bioprocess engneering, molecular biology and microbiology**, I apply machine learning, image processing, and spatial multi-omics pipelines to uncover biological insights from clinical, microbial, and single-cell data.
+With a strong foundation in **bioprocess engineering, molecular biology and microbiology**, I apply machine learning, image processing, and spatial multi-omics pipelines to uncover biological insights from clinical, microbial, and single-cell data.
 
 ---
 
@@ -15,6 +15,6 @@ With a strong foundation in **bioprocess engneering, molecular biology and micro
 
 ### 🤝 Collaboration
 
-I am actively looking to collaborate with **bioengineering, bioprocess engneering, biotechnology, pharmaceutical, or bioinformatics teams**.
+I am actively looking to collaborate with **bioengineering, bioprocess engineering, biotechnology, pharmaceutical, or bioinformatics teams**.
 
 💬 Feel free to reach out via [GitHub Discussions](https://github.com)!
