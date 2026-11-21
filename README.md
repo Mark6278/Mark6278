@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @Mark6278 a Biochemistry graduated
-- 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning image processing, machine learning, deep learning
-- 💞️ I’m looking to collaborate on biotechnological or bioinformatic team
+# Hi there, I'm Mark6278 👋
 
-<!---
-Mark6278/Mark6278 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Biochemistry Graduate | Bioinformatics & Computational Biology**
+
+I apply machine learning, image processing, and spatial multi-omics pipelines to uncover biological insights from clinical and single-cell data.
+
+---
+
+### 🔬 Focus Areas
+* **Bioinformatics & Multi-Omics:** Single-cell analysis, spatial transcriptomics, and clinical data pipelines (`scverse`, 10x Genomics).
+* **Machine Learning & Deep Learning:** Cross-modal phenotype prediction and quantitative histology / biological image processing.
+* **Pipeline Engineering:** Building portable, CPU-optimized CLI tools in Python.
+
+---
+
+### 🤝 Collaboration & Contact
+I am actively looking to collaborate with **bioengineering, biotechnology, pharmaceutical, or bioinformatics teams**.
