@@ -8,7 +8,7 @@ With a strong foundation in **molecular biology and microbiology**, I apply mach
 
 ### 🔬 Focus Areas
 * **Bioinformatics & Multi-Omics:** Single-cell analysis, spatial transcriptomics, and clinical data pipelines (`scverse`, 10x Genomics).
-* **Machine Learning & Deep Learning:** Cross-modal phenotype prediction and quantitative histology / biological image processing.
+* **Machine Learning & Deep Learning:** Cross-modal phenotype prediction, cellular/droplet tracking and quantitative histology / biological image processing.
 * **Pipeline Engineering:** Building portable, CPU-optimized CLI tools in Python.
 
 ---
